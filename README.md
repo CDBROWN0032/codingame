@@ -1,1 +1,2 @@
-codingame
+www.codingame.com
+
